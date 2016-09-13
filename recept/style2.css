@@ -1,0 +1,25 @@
+body{background-image:url(muur.jpg);
+background-repeat: no-repeat;
+background-size:100%;
+background-image:center;
+}
+div{text-align:left;
+
+}
+h1{text-align:left;
+
+}
+h2{text-align:left;
+
+}
+li.in{text-align:left;
+
+}
+div.bereiden{text-align:top-center;
+margin-left:0px;
+margin-right:500px;
+}
+
+img{ margin-left:0px;
+
+}
